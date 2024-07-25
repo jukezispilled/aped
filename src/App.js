@@ -171,7 +171,7 @@ function App() {
               <motion.img
                 whileHover={{ scale: 1.15, rotate: -10 }}
                 transition={{ type: 'spring', stiffness: 300 }}
-                src="/ape.png"
+                src="/ap.png"
                 alt="aped"
                 className="w-[55%] md:w-[37.5%] h-auto border rounded-full"
               />
