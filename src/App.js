@@ -172,7 +172,7 @@ function App() {
                 whileHover={{ scale: 1.15, rotate: -10 }}
                 transition={{ type: 'spring', stiffness: 300 }}
                 src="/aped.png"
-                alt="Tunes"
+                alt="aped"
                 className="w-[55%] md:w-[37.5%] h-auto border rounded-full"
               />
             </div>

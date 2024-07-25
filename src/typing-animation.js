@@ -25,7 +25,7 @@ function TypingAnimation({ text, duration = 200, className }) {
   return (
     <h1
       className={cn(
-        "font-display text-center text-4xl font-bold leading-[5rem] tracking-[-0.02em] drop-shadow-sm",
+        "font-display text-center font-[500] text-4xl leading-[5rem] tracking-[-0.02em] drop-shadow-sm",
         className
       )}
     >
