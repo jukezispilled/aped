@@ -181,7 +181,7 @@ function App() {
             <a href="https://x.com/apesomesol" className=''>
               Twitter
             </a>
-            <a href="https://t.me/apedsomesol" className=''>
+            <a href="https://t.me/APEDsolanaportal" className=''>
               Telegram
             </a>
           </div>
