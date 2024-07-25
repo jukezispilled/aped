@@ -139,13 +139,13 @@ function App() {
           <div className='text-5xl font-custom absolute right-[17%] bottom-[17%] text-[#52ff57] flex'>
             +<NumberTicker className="text-[#52ff57]" value={433} />%
           </div>
-          <div className='text-5xl font-custom absolute right-[17%] top-[10%] text-[#52ff57] flex'>
+          <div className='text-5xl font-custom absolute right-[17%] top-0 md:top-[10%] text-[#52ff57] flex'>
             +<NumberTicker className="text-[#52ff57]" value={629} />%
           </div>
           <div className='text-5xl font-custom absolute left-[17%] top-[35%] text-[#52ff57] flex'>
             +<NumberTicker className="text-[#52ff57]" value={895} />%
           </div>
-          <div className='text-5xl font-custom absolute left-[22%] top-[92%] text-[#52ff57] flex'>
+          <div className='text-5xl font-custom absolute left-[22%] top-[96%] text-[#52ff57] flex'>
             +<NumberTicker className="text-[#52ff57]" value={364} />%
           </div>
           <div className='text-5xl font-custom absolute left-[17%] top-[4%] text-[#52ff57] flex'>
