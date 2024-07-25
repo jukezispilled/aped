@@ -105,7 +105,7 @@ function App() {
   const [copied, setCopied] = useState(false);
 
   const handleCopy = () => {
-    navigator.clipboard.writeText('coming soon...');
+    navigator.clipboard.writeText('FgPikyGewyZd3pMm4QKuRrt4dQaoDqGTYbminYBfpump');
     setCopied(true);
     setTimeout(() => {
       setCopied(false);
@@ -199,7 +199,7 @@ function App() {
                   }
             </button>
             <div className='text-sm md:text-lg overflow-x-auto font-custom'>
-              coming soon...
+            FgPikyGewyZd3pMm4QKuRrt4dQaoDqGTYbminYBfpump
             </div>
           </div>
         </div>
@@ -221,7 +221,7 @@ function App() {
             </div>
             <iframe
               className="h-[calc(70vh)] w-[calc(85vh)]"
-              src="https://pump.fun/board"
+              src="https://pump.fun/FgPikyGewyZd3pMm4QKuRrt4dQaoDqGTYbminYBfpump"
               style={{ border: 'none' }}
               allowFullScreen
             ></iframe>
