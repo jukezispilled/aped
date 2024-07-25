@@ -178,7 +178,7 @@ function App() {
             </div>
           </div>
           <div className='z-20 w-full flex justify-center pt-[%] text-2xl md:text-3xl space-x-10 underline font-custom pt-[2%]'>
-            <a href="https://x.com/apedsomesol" className=''>
+            <a href="https://x.com/apesomesol" className=''>
               Twitter
             </a>
             <a href="https://t.me/apedsomesol" className=''>
